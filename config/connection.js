@@ -3,7 +3,7 @@ var mysql = require("mysql");
 
 
 var connection;
-var PORT = process.env.PORT || 3000;
+// var PORT = process.env.PORT || 3000;
 
 if (process.env.JAWSDB_URL) {
   connection = mysql.createConnection(process.env.JAWSDB_URL);
