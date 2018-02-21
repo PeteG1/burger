@@ -1,0 +1,39 @@
+
+body {
+	background: #FFA500;
+}
+
+
+#burger-img {
+	max-width: 160px;
+  margin-top: 10px;
+
+}
+
+#burger-h {
+	font-size: 50px;
+}
+
+.burger-text {
+  font-size: 16px;
+}
+
+.burger-btn {
+  font-size: 20px;
+}
+
+
+#devoured-text {
+	color: #98978b;
+	background-color: #FFBC00
+}
+
+.uneaten-list, .eaten-list {
+	max-height: 300px;
+	overflow-y:auto;
+}
+
+.uneaten-list, .eaten-list {
+	max-height: 300px;
+	overflow-y:auto;
+}
